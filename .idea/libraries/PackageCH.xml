@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="PackageCH">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../PackageCH/out/artifacts/PackageCH_jar/PackageCH.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
